@@ -20,6 +20,9 @@ Started using the computer at the age of 4, which is basically 75% of my life.
 
 よろしくお願い致します！
 
+![Dylan's Github Stats](https://github-readme-stats.vercel.app/api?username=Tokinoharu&count_private=true&theme=gotham&show_icons=true)
+![Dylan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokinoharu&layout=compact&theme=gotham)
+
 <!--
 **Tokinoharu/Tokinoharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
