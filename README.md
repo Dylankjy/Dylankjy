@@ -37,3 +37,4 @@ console.log(watashi.salutations())
 ![Dylan's Github Stats](https://github-readme-stats.vercel.app/api?username=Dylankjy&count_private=true&theme=gotham&show_icons=true)
 ![Dylan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylankjy&layout=compact&theme=gotham)
 
+<!-- hey @BlueGoldfield, you suck because you used python for this.  -->
