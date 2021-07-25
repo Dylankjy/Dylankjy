@@ -24,7 +24,6 @@ class Dylankjy {
         }
     }
 
-    // print
     salutations() {
         return 'Thanks for popping by my profile page. Check out some of my projects below:'
     }
