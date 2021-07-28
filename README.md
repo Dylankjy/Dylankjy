@@ -1,10 +1,10 @@
 ```js
 class Dylankjy {
     constructor() {
-        this.name = "Dylan Kok"
-        this.occupation = "Founder at TanukiHQ, Vice-President at NYP AI"
-        this.education = "Diploma in Information Technology at Nanyang Poly"
-        this.location = "Singapore"
+        this.name = 'Dylan Kok'
+        this.occupation = 'Founder at TanukiHQ, Vice-President at NYP AI'
+        this.education = 'Diploma in Information Technology at Nanyang Poly'
+        this.location = 'Singapore'
         this.languages = {
             'Computer': {
                 'frontend': ['HTML', 'CSS', 'Javascript', 'HandlebarsJS', 'JQuery'],
