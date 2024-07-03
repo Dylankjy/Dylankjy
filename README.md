@@ -2,13 +2,13 @@
 class Dylankjy {
     constructor() {
         this.name = 'Dylan Kok'
-        this.occupation = ['Founder at TanukiHQ', 'Vice-President at NYP AI']
-        this.education = 'Diploma in Information Technology at Nanyang Poly'
+        this.occupation = ['Fullstack Developer @ Republic of Singapore Air Force']
+        this.education = 'Diploma in Information Technology @ Nanyang Polytechnic'
         this.location = 'Singapore'
-        this.languages = {
+        this.technology = {
             'Computer': {
-                'frontend': ['HTML', 'CSS', 'Javascript', 'HandlebarsJS', 'JQuery'],
-                'backend': ['Python', 'NodeJS'],
+                'frontend': ['HTML', 'CSS', 'JS', 'ReactJS', 'HandlebarsJS'],
+                'backend': ['Python', 'NodeJS', 'ExpressJS'],
                 'database': ['MySQL', 'MongoDB'],
                 'other': ['C', 'C++', 'C#']
             },
