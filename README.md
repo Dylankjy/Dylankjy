@@ -3,7 +3,7 @@ class Dylankjy {
   constructor() {
     this.name = "Dylan Kok";
     this.occupation = ["Fullstack Developer @ Republic of Singapore Air Force"];
-    this.education = "Diploma in Information Technology @ Nanyang Polytechnic";
+    this.education = "Bachelor of Computing (Hons) in Computer Science @ Nanyang Technological University";
     this.location = "Singapore";
     this.technology = {
       Computer: {
